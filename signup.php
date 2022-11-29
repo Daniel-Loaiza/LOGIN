@@ -15,7 +15,6 @@
             <input type="password" name="password" id="password">
             <input type="button" id="btn" value="Sign-Up">
         </form>
-
     </div>
 </body>
 </html>
